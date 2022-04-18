@@ -1,1 +1,1 @@
-Need to make something meaningful tomorrow.
+Desktop app that lets you log workouts and see your progress.
