@@ -45,14 +45,6 @@ public class Main {
 		frame.setVisible(true);
 	}
 
-/*	public void updateFrame(String a) {
-		if (a.equals("add")) {
-			frame.getContentPane().add(BorderLayout.CENTER, new CreateWorkoutPanel());
-		} else if (a.equals("view")) {
-			frame.getContentPane().add(BorderLayout.CENTER, new CreateWorkoutPanel());
-		}
-	}*/
-
 	public static void main(String[] args) {
 		guiSetup();
 	}
